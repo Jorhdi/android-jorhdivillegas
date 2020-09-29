@@ -3,4 +3,8 @@
     <string name="tv_name">Nombre Completo</string>
     <string name="tv_email">Email</string>
     <string name="tv_clave">Password</string>
+    <string name="tv_titulo">Formulario de Registro</string>
+    <string name="tv_repetir_clave">Repetir Password</string>
+    <string name="bt_registrar">Confirmar Registro</string>
+    <string name="tv_volver_registro">Volver al Login</string>
 </resources>
